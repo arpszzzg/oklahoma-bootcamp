@@ -2,6 +2,7 @@
 #test by balabala
 
 def add_two(a,b):
+\	print "Hi, I'm jaust adding two numbers here")
 	return a+b
 
 def main():
