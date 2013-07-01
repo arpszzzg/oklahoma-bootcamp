@@ -1,11 +1,9 @@
 
 #test by balabala
-
-def add_two(a,b):
-\	print "Hi, I'm jaust adding two numbers here")
-	return a+b
+#from adding import add_two, add_three
 
 def main():
+	print ("2 +3 +4 =", add_three(2,3,4) ) 
 	print ("2+3 = ", add_two(2,3)  )
 	print ("2+4 = ", add_two(2,4)  )
 
